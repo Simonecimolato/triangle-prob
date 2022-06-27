@@ -1,2 +1,2 @@
 # triangle-prob
-ispiration: https://youtu.be/OkmNXy7er84
+inspired by: https://youtu.be/OkmNXy7er84
